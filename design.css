@@ -7,3 +7,23 @@
 	padding: 0;
 	border: 0;
 }
+
+#izquierdo{
+	position: absolute;
+	top=0;
+	left: 0;
+	width: 200px;
+}
+
+#derecho{
+	position: absolute;
+	top=0;
+	right: 0;
+	width: 200px;
+}
+
+#titulo{
+	font-family: 'Gloria Hallelujah', cursive;
+	font-size: 50px;
+	top: 0;
+}

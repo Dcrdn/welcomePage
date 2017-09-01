@@ -1,9 +1,9 @@
 var imagenes=new Array(
-        'nala.jpeg',
-        'eagle.jpeg',
-        'giff.gif',
-        'city.jpg',
-        'binary.jpg'
+        'img/nala.jpeg',
+        'img/eagle.jpeg',
+      //  'giff.gif',
+        'img/city.jpg',
+        //'binary.jpg'
     );
 
 function fondoRandom()
